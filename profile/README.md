@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.xend.dev">
-    <img alt="Xend is One API for Slack, Telegram, email, and push notifications – all channels unified, zero complexity" src="https://github.com/xend-dev/.github/blob/main/profile/xend_logo.png">
+    <img alt="Xend is One API for Slack, Telegram, email, and push notifications – all channels unified, zero complexity" src="https://github.com/xend-dev/.github/blob/main/profile/xend_logo.png" width="160">
   </a>
 </p>
 <p align="center">
